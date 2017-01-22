@@ -1,0 +1,4 @@
+Dataset: ...data/ml-1m/ml-1m/ratings-spaced.dat
+With Setup: given-ratio -target u --by-date --test-view all
+SVD++,0.945903,1.159102,0.236476,0.942025,1.259021,0.675457,,10, 0.0, 0.0, 0.0, 0.0, 0.0, 5, false,'03:40','00:02'
+
